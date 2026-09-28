@@ -1,1 +1,1 @@
-# GameLiftClientProjects
+# GameLiftClientProject
